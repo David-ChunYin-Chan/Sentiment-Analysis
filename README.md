@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment Analysis
 
 ## Introduction
 The number of data, both quantitative and qualitative, increases dramastically in the era of big data. In E-commerence industry, more and more reviews on products can be made more conveniently. Hence, it is extremely costly, if not impossible, for company to go through every review one by one manually to gain insights on the sentiment towards their products. Therefore, having a machine learning tool to analysis the huge amount data systematically and automatically could boost the company's efficieny and become essential in this era. <br> <br>
